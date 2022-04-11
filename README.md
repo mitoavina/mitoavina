@@ -23,7 +23,7 @@
 		FindLove() 💑
 	
  ```
- 
+ <a href="https://app.daily.dev/mitoavina"><img src="https://api.daily.dev/devcards/19e8f46715b3427da8736b483f5968e7.png?r=kvd" width="400" alt="Mi Toavina's Dev Card"/></a>
 
 ## :computer: Technologies
 * Machine Learning
