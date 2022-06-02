@@ -41,7 +41,4 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitoavina&layout=compact)](https://github.com/mitoavina/github-readme-stats)
 
-
-Last Edited on: 08/09/2021
-
 [![Gmail Badge](https://img.shields.io/badge/-toavinami.andria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toavinami.andria@gmail.com)](mailto:toavinami.andria@gmail.com)
